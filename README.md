@@ -1,6 +1,6 @@
 # 🧑‍💻 코딩 타로의 요정 🧚
 
-[![Tarot message](https://readme-multilang.vercel.app/api/getimage?callback=https://github.com/Anne-Hyeyeon)](https://readme-multilang.vercel.app/api/getimage?callback=https://github.com/Anne-Hyeyeon)
+[![Tarot message](https://readme-multilang.vercel.app/api/getimage?callback=https://github.com/Anne-Hyeyeon)
 
 ## 사용 방법
  1. 마음 속으로 `코딩`과 관련된 생각, 고민거리를 떠올려 봅니다. 🧘 
