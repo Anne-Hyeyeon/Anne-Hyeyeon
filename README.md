@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+
+![dancing bunny](https://github.com/Anne-Hyeyeon/mystorage/blob/main/bunny-pole.gif)
 
 <!--
 **Anne-Hyeyeon/Anne-Hyeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
