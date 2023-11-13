@@ -3,7 +3,9 @@
 [![Random Image](https://readme-multilang.vercel.app/api/getimage)](https://readme-multilang.vercel.app/api/getimage)
 
 
-[클릭하면 텍스트가 바뀝니다.](https://github.com/Anne-Hyeyeon)
+[Link 1](https://readme-multilang.vercel.app/api/getimage?choice=1)
+[Link 2](https://readme-multilang.vercel.app/api/getimage?choice=2)
+[Link 3](https://readme-multilang.vercel.app/api/getimage?choice=3)
 
 <!--
 **Anne-Hyeyeon/Anne-Hyeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
