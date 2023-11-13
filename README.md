@@ -11,7 +11,7 @@
 
 | ![Chariot](https://raw.githubusercontent.com/Anne-Hyeyeon/readme-multilang/main/img/chariot.jpg) | ![Empress](https://raw.githubusercontent.com/Anne-Hyeyeon/readme-multilang/main/img/empress.jpg) | ![Devil](https://raw.githubusercontent.com/Anne-Hyeyeon/readme-multilang/main/img/devil.jpg) | ![Hermit](https://raw.githubusercontent.com/Anne-Hyeyeon/readme-multilang/main/img/hermit.jpg) | ![Hierophant](https://raw.githubusercontent.com/Anne-Hyeyeon/readme-multilang/main/img/hierophant.jpg) | ![King of Cups](https://raw.githubusercontent.com/Anne-Hyeyeon/readme-multilang/main/img/king-of-cups.jpg) |
 |---|---|---|---|---|---|
-| 전차  (Chariot) | 여황  (Empress) | 악마  (Devil) | 은둔자  (Hermit) | 교황  (Hierophant) | 컵의 왕  (King of Cups) |
+| 전차 <br> (Chariot) | 여황  (Empress) | 악마  (Devil) | 은둔자  (Hermit) | 교황  (Hierophant) | 컵의 왕  (King of Cups) |
 
 | ![King of Swords](https://raw.githubusercontent.com/Anne-Hyeyeon/readme-multilang/main/img/king-of-swords.png) | ![Moon](https://raw.githubusercontent.com/Anne-Hyeyeon/readme-multilang/main/img/moon.jpg) | ![Page of Swords](https://raw.githubusercontent.com/Anne-Hyeyeon/readme-multilang/main/img/page-of-swords.png) | ![Tower](https://raw.githubusercontent.com/Anne-Hyeyeon/readme-multilang/main/img/tower.jpg) | ![Wheel of Fortune](https://raw.githubusercontent.com/Anne-Hyeyeon/readme-multilang/main/img/wheel-of-forutune.jpg) | ![World](https://raw.githubusercontent.com/Anne-Hyeyeon/readme-multilang/main/img/world.jpg) |
 |---|---|---|---|---|---|
