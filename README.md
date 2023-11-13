@@ -3,9 +3,9 @@
 [![Tarot message](https://readme-multilang.vercel.app/api/getimage)](https://readme-multilang.vercel.app/api/getimage)
 
 ## 사용 방법
- 1. 마음 속으로 `코딩`과 관련된 생각, 고민거리를 떠올려 봅니다. 🧘 **
+ 1. 마음 속으로 `코딩`과 관련된 생각, 고민거리를 떠올려 봅니다. 🧘 
  2. `코딩 타로의 요정` 🧚 에게 묻고 싶은 질문을 구체적으로 떠올려 봅니다..
- 3. 자, 이제 카드를 선택합니다. 🃏 **
+ 3. 자, 이제 카드를 선택합니다. 🃏 
 
 **마음에 드는 카드를 선택하세요**
 
