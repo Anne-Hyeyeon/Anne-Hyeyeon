@@ -34,7 +34,7 @@ I'm Anne Kim, `a front-end developer`. Currently I'm working at `SSR(에스에�
 
 
 # 🧑‍💻 코딩 타로점 (Coding Tarot) 🧚
-## 오늘 당신의 코딩 운세는? (Today's coding horoscope)  🪄
+## 오늘 당신의 코딩 운세는? (Today's Coding Horoscope)  🪄
 ![Tarot message](https://readme-multilang.vercel.app/api/getimage)
 
 ## 다른 결과가 궁금하다고요? 코딩 타로 보는 법    
