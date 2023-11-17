@@ -27,7 +27,7 @@ I'm Anne Kim, `a front-end developer`. Currently I'm working at `SSR(에스에�
 ![](https://img.shields.io/badge/🏋️weight_training-informational?style=flat&logo=yoga&logoColor=white&color=ffe9eb)
 ![](https://img.shields.io/badge/😋food-informational?style=flat&logo=yoga&logoColor=white&color=ffe9eb)
 ![](https://img.shields.io/badge/🍺gatherings-informational?style=flat&logo=yoga&logoColor=white&color=ffe9eb)
-![](https://img.shields.io/badge/🙀Attack_of_Titan-informational?style=flat&logo=yoga&logoColor=white&color=ffe9eb)
+![](https://img.shields.io/badge/🙀Attack_on_Titan-informational?style=flat&logo=yoga&logoColor=white&color=ffe9eb)
 ![](https://img.shields.io/badge/Pokemon_GO-informational?style=flat&logo=pokemon&logoColor=black&color=ffe9eb)
 ![](https://img.shields.io/badge/🧸cute_but_useless_things-informational?style=flat&logo=yoga&logoColor=white&color=ffe9eb) 
 
