@@ -5,11 +5,6 @@
  [Do It Again ♥😍](https://readme-multilang.vercel.app/api/getimage?callback=https://github.com/Anne-Hyeyeon) 
 
 ## 🐰안녕하세요, Hello there!
-`프론트엔드 개발자` 김혜연입니다. 현재 보안 취약점(CVE, CCE)진단 솔루션 회사 `에스에스알(SSR)`에서 근무하고 있습니다.  
-
-I'm Anne Kim, `a front-end developer`. Currently I'm working at `SSR(에스에스알)`, a company specializing in security vulnerability(CVE, CCE) diagnosis solutions. 
-
-
 #### 👩🏻‍💻 Languages/Frameworks I'm using:
 ![](https://img.shields.io/badge/editor-Visual_studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ce586e)
 ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=sass&logoColor=white&color=ce586e)
