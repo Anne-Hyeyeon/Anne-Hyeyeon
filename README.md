@@ -25,5 +25,7 @@
 ![](https://img.shields.io/badge/🍺gatherings-informational?style=flat&logo=yoga&logoColor=white&color=ffe9eb)
 ![](https://img.shields.io/badge/🪕ukulele-informational?style=flat&logo=yoga&logoColor=white&color=ffe9eb)
 
-
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
+</a>
 
